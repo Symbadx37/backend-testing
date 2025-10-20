@@ -1,3 +1,4 @@
+/*
 // index.js
 require('dotenv').config()
 console.log(process.env) // remove this after you've confirmed it is working
@@ -13,3 +14,4 @@ const server = http.createServer((req, res) => {
 server.listen(PORT, () => {
   console.log(`Server running on port:${PORT}/`)
 })
+*/
